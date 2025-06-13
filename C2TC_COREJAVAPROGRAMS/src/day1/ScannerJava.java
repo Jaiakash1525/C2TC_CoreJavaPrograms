@@ -6,7 +6,7 @@ public class ScannerJava {
 	{
 		int a,b,c;
 		Scanner ac;
-		ac= new Scanner(System.in);
+		ac = new Scanner(System.in);
 		System.out.println("enter a ");
 		a = ac.nextInt();
 		System.out.println("enter b");
