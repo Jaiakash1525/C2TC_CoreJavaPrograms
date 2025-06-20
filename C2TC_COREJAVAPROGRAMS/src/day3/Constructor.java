@@ -28,7 +28,7 @@
 			c1.setCustomerCity(city);
 			System.out.println(c1);
 			
-			System.out.print("Enter Customer Id : ");
+			System.out.print("Enter Customer id : ");
 			id=sc.nextInt();
 			
 			sc.nextLine();

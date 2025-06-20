@@ -6,7 +6,6 @@ public class StudentJ {
 
     public static StudentJ getS1() {
 		return s1;
-	
 	}
 	private int sid;
     private String sname;
